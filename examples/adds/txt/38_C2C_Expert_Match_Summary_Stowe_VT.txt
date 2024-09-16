@@ -1,0 +1,31 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Stowe, Vermont
+ TA Scope
+From April through September 2023, the National Renewable Energy Laboratory (NREL) and Oak Ridge National Laboratory (ORNL) provided technical input on smart grid baseline creation, best practices on increasing clean energy participation in disadvantaged and low-income households, and potential funding opportunities to support the utility’s efforts.
+ Impact
+This technical assistance effort equipped the utility with technically sound best practices to inform near-term utility program design and grid modernization efforts. The utility representative stated that this experience “provides staff the opportunity to work directly with experts and work through thought experiments, rather than rely on answers from consultants that might not be directed to the utility and doesn’t enable staff to learn.”
+ Background
+Stowe Electric is a small utility located in the village of Moscow and serves the broader Stowe area in Vermont. It serves ~4,600 residential and commercial customers. The utility is interested in leveraging the Inflation Reduction Act and other funding to upgrade its grid infrastructure and reduce the energy burden of its low-income customers. Currently, Vermont state regulators are requiring a fully mapped electrical system, including defining a load-shedding scheme. To that end, Stowe Electric needs to enhance its baseline grid infrastructure, including deployment of situational awareness methods like a supervisory control and data acquisition system and distribution management system to help monitor, gather, and process real-time data, especially for grid insight and generation asset management. The utility was also interested in creating a process for low-income customers to benefit from solar and hydroelectric generation, possibly through a beneficial Community Solar Green Tariff program.
+ Expert Match Team
+Sika Gadzanku
+Community Lead, Main Expert Match Point of Contact and Overall Program Manager, NREL
+Rory Mcllmoil
+Grid Planning and Analysis Engineer, NREL
+Neil Shepard
+Energy Systems Integration Technical Staff, ORNL
+ Community Team
+Michael Lazorchak
+Regulatory Affairs
+
+
+
+
+
+
+
+
+
+	

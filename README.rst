@@ -43,15 +43,18 @@ Option #1 (basic usage):
 Option #2 (developer install):
 
 #. from home dir, ``git clone git@github.com:NREL/elm.git``
-#. Create ``elm`` environment and install package
-    a) Create a conda env: ``conda create -n elm``
-    b) Run the command: ``conda activate elm``
-    c) ``cd`` into the repo cloned in 1.
-    d) Prior to running ``pip`` below, make sure the branch is correct (install
-       from main!)
-    e) Install ``elm`` and its dependencies by running:
-       ``pip install .`` (or ``pip install -e .`` if running a dev branch
-       or working on the source code)
+#. Create a virtual environment and install package
+
+Create a new virtual environment: python -m venv elm-env
+Activate the virtual environment:
+
+On Windows: elm-env\Scripts\activate
+On macOS and Linux: source elm-env/bin/activate
+
+
+cd into the repo cloned earlier.
+Prior to running pip below, make sure the branch is correct (install from main!)
+Install elm and its dependencies by running: pip install . (or pip install -e . if running a dev branch or working on the source code)
 
 .. inclusion-acknowledgements
 

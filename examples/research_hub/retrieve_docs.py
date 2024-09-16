@@ -23,10 +23,10 @@ init_logger('elm', log_level='INFO')
 
 # NREL-Azure endpoint. You can also use just the openai endpoint.
 # NOTE: embedding values are different between OpenAI and Azure models!
-openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT")
-openai.api_key = os.getenv("AZURE_OPENAI_KEY")
+openai.api_base = 'https://stratus-embeddings-south-central.openai.azure.com/'
+openai.api_key = 'eccaf77417c541a3ab38e6c550b56259'
 openai.api_type = 'azure'
-openai.api_version = '2023-03-15-preview'
+openai.api_version = '2024-02-15-preview'
 
 ChunkAndEmbed.EMBEDDING_MODEL = 'text-embedding-ada-002-2'
 ChunkAndEmbed.EMBEDDING_URL = ('https://stratus-embeddings-south-central.'

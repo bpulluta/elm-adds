@@ -1,0 +1,38 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Questa, New Mexico
+ TA Scope
+From October through November 2023, the National Renewable Energy Laboratory (NREL) planned and conducted a tour of its hydrogen production facilities, including a review of feasibility study, presentations on hydrogen safety, and Q&A sessions. On Nov. 16th, 2023, NREL hosted 13 Kit Carson Electric Cooperative (KCEC) board members, staff, and business partners. Chrissy Scarpitti hosted the tour and organized visits to NREL’s hydrogen facilities as well as presentations by hydrogen subject matter experts. Each session included Q&A with subject matter experts. 
+Orientation – agenda, policies and procedures, DOE technical assistance programs, previous work
+Flatirons Campus Tour – H2 Testbed, electrolyze, fuel cell, and ARIES grid integration
+Lunch with Communities Local Energy Action Program management
+South Table Mountain – Energy Systems Integration Facility – describing grid management control room, electrolyze and production facility, storage, and fueling station
+Hydrogen Safety Presentation – a virtual presentation on hydrogen safety considerations.
+ Impact
+At the end of the day’s events, the board members reported feeling more comfortable with the technology’s market readiness and safety concerns and left with practical next steps for integrating safety best practices into their project planning.
+
+ Background
+Questa, New Mexico, is a rural mining and farming community within the KCEC service territory. When the nearby molybdenum mine closed in 2014, the community lost many jobs and suffered economic loss. Questa village leadership seeks to create a new and diverse economy powered by green electricity. Although KCEC delivers 100% renewable energy during the daytime, it seeks a long-duration energy storage solution to meet its members and state mandates to deliver 100% renewable energy throughout the nighttime. A coalition of Northern New Mexico organizations applied to the U.S. Department of Energy’s Communities Local Energy Action Program pilot in 2021 and worked with NREL staff from June 2022 to October 2023 to assess the feasibility of an electrolytic hydrogen production facility, located in Questa, which could deliver clean power to KCEC’s grid. KCEC realized that to make an educated decision about whether clean hydrogen is a good fit for the KCEC generation portfolio and, more generally, for the Questa community. Its board members needed to learn firsthand from technology that is already operational.
+ Expert Match Team
+Chrissy Scarpitti
+Community Lead, Main Expert Match Point of Contact, NREL
+Keith Wipke
+Fuel Cell and Hydrogen Technologies LPM, NREL
+Nate Mitchel
+Hydrogen Project Manager, NREL
+Greg Martin
+Energy Systems Integration Facility Group Research Manager, NREL
+Daniel Leighton
+Hydrogen Expert, NREL
+Nick Barillo
+Hydrogen Safety Expert, Pacific Northwest National Laboratory (PNNL)
+Kumar Prabakar
+Electrical Engineering Researcher, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Luis Reyes Jr., CEO
+Carmella Suazo, Assistant Manager
+Brianna Trujillo, Executive Secretary

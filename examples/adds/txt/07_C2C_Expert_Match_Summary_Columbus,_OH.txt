@@ -1,0 +1,35 @@
+              U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Columbus, Ohio
+ TA Scope
+From May through November 2023, the National Renewable Energy Laboratory (NREL) provided technical assistance to the City of Columbus to support the city’s decision-making around deploying a new utility-scale renewable energy project. The expert team reviewed the city’s preliminary power purchase agreement (PPA) and modeled the system configuration with REopt® to assess if the contract was “fair.” The techno-economic analysis provides life cycle cost assessment of various interconnection and offtake scenarios (some of which may trigger export to non-city transmission infrastructure). Numerous progress reviews and consultation calls shed light on the challenges the city faces if they generate more power than they consume at their wastewater treatment facility.  
+ Impact
+Without understanding all these variables, the team was unable to provide the apples-to-apples assessment of ownership options the city sought. However, the team outlined a series of variables the city must consider as it proceeds with decision-making, including the technical, financial, and legal feasibility of interconnecting with transmission infrastructure. While C2C was not able to fully address the city’s questions, it was able to validate that the preliminary PPA contract it had in hand was “fair” based on techno-economic analysis. The team also outlined many of the maintenance and operations considerations the city would be responsible for if it were to pursue direct ownership of the systems. Perhaps most importantly, consultation with the TA team revealed critical gaps in understanding the excess generation, transmission system export triggers, and interconnectivity that the city continues to explore.   
+
+ Background
+The City of Columbus’ Department of Public Utilities is exploring developing a 27-megawatt solar photovoltaic (PV) project at their municipal compost facility. The city’s neighboring Southerly Wastewater Treatment Plant (SWTTP) would be the first offtake, exporting the excess generation to the Division of Power’s municipal grid. They are also considering a battery energy storage system to enable “energy arbitrage” and provide backup power and black-start capability for the SWTTP. The city applied to Expert Match to understand which financing mechanisms and contracting options (e.g., PPA, direct ownership, performance contract) provide the best economic prospect and deliver the lowest-cost energy.  
+
+ Expert Match Team
+Chrissy Scarpitti 
+Community Lead, Main Expert Match Point of Contact, NREL
+Sika Gadzanku 
+Researcher, C2C Expert Match Program Manager, NREL
+Byron Pullutasig
+Model Engineer, Techno-Economic Analysis Expert, NREL
+Matt Joyner
+Energy Management Finance Expert, NREL
+Chandra Shaw
+Energy Management Finance Expert, NREL
+ Community Team
+Alana Shockey
+Assistant Director, Regulatory Compliance & Sustainability, Department of Public Utilities
+Janean Weber
+Assistant Director, Regulatory Compliance & Sustainability, Department of Public Utilities
+
+
+
+
+
+

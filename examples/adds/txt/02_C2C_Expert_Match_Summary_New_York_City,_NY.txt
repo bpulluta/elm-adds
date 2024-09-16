@@ -1,0 +1,41 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support 
+
+City University of New York, New York
+ TA Scope
+From April 2023 to January 2024, the National Renewable Energy Laboratory (NREL) provided technical support to the City University of New York Urban Systems Building Performance Lab (CUNY BPL) in the following areas: 
+Setting up an Open Studio Server to use for Building Energy Model (BEM) calibration workflow in CUNY’s high performance computing center
+Estimating the hardware and software resources required for large scale BEM implementation. 
+Developed a workflow to run ComStock models
+Calibrated two building models with measured data.
+
+ Impact
+Helped inform development of the lab’s critical hardware and software to support ongoing building operations research efforts and partnerships.
+
+
+
+
+
+
+
+
+
+
+Background
+The CUNY BPL focuses on improving efficiency and optimizing building operations through continuing education programs for facility managers, building operators, and energy professionals, internships for CUNY students, and building systems research and development. 
+
+ Expert Match Team
+Alexandra Kramer
+Community Lead, Main Expert Match Point of Contact, National Renewable Energy Laboratory (NREL)
+Eric Bonnema
+Researcher, Mechanical Engineer, NREL
+ Community Team
+Duncan Prahl
+City University of New York Building Performance Lab (CUNY BPL) Project Lead
+Amanda O’Donnel
+CUNY BPL Project Lead
+Mike Burton
+CUNY BPL Project Lead
+Farshad Kheiri
+CUNY BPL Project Lead

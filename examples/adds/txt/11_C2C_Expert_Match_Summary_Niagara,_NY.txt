@@ -1,0 +1,42 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Niagara, New York
+ TA Scope
+From July 2023 through February 2024, the National Renewable Energy Laboratory (NREL) provided technical support to Niagara County, New York, to inform a strategic decision framework focused on electric vehicle supply equipment (EVSE). Specifically, the expert team completed the following:
+Provided technical expertise to county staff to outline different pathways to achieve electric vehicle (EV)-related objectives through EVSE deployments, such as delineating charging needs/impacts between rural and urban areas; assessing the feasibility, costs, and benefits of EVSE deployments at existing facilities and parking lots; and identifying project partners and funding opportunities to help fund EVSE deployments across the county.
+The expert team also ran a variety of EV adoption scenarios to determine the number of charging stations needed, the types of charging stations to improve performance and lower costs, and a general spatial distribution of EVSE using the following tools: 
+EVI-Pro Lite 
+Simplified version of NREL’s EVI-Pro model that can be run easily from a web browser. Expansion planned for 2023‒2024 that would add significant capabilities and increased resolution.
+EVI-Equity™ 
+Model to evaluate equitable planning for EV charging infrastructure as well as EV adoption.
+ Impact
+Provided Niagara County with a strategic decision framework focused on EVSE that is cost effective, equitable, and promotes greater adoption of EVs.
+
+ Background
+Niagara County is located in New York with a population of roughly 215,000. The county was awarded $81,000 to address energy efficiency and carbon reduction strategies. The county applied to C2C looking for assistance to create a strategic decision framework focused on EVSE that is cost-effective, equitable, and promotes greater adoption of EVs. 
+
+ Expert Match Team
+Sika Gadzanku
+C2C Expert Match Program Manager, Community Lead, NREL
+Sophia Garcia-George
+Graduate Researcher, Secondary Community Lead, NREL
+Eric Wood
+Mobility Sciences Researcher, NREL
+Andrew Duvall
+Mobility Sciences Researcher, NREL
+Dong-Yeon Lee
+Mobility Equity Researcher, NREL
+ Community Team
+Savannah Betkowski
+Environmental Analyst, Niagara County Department of Public Works
+Dawn Timm
+Environmental Analyst, Niagara County Department of Public Works
+
+
+
+
+
+
+

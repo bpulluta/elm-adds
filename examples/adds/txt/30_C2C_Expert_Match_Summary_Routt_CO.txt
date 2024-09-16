@@ -1,0 +1,31 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Routt, Colorado
+ TA Scope
+From November 2023 through May 2024, the National Renewable Energy Laboratory (NREL) provided technical assistance in two different areas:
+Solar Techno-Economic Analysis: System Advisor Model™ techno-economic analysis of four different sites to meet approximately 9 megawatts (MW) of load for the project partners of Routt County, the City of Steamboat Springs, and the Town of Hayden. Variables considered in the modeling include financial parameters, technical photovoltaic details, and snow data
+Resilience Hub Analysis: Modeling of the storage requirement to turn the County Fairground site into a community resilience hub.
+ Impact
+This technical assistance effort equipped Routt County with the analysis needs to finalize project plans that they had been negotiating for several years with their utility. The analysis also provided Routt County with the information needed to move forward with site selection, land purchasing, grant applications, and hiring a consultant to support the later stages of project development. A participant from Routt stated, “We now have a project that we can hand off to our consulting firm to implement (6 MW, solar and also solar/storage), and we can utilize it to obtain grants.”
+
+ Background
+Routt County, Colorado, has a population of approximately 25,000. Routt County wants to deploy renewable energy to offset 100% of their electric use. The county was interested in evaluating solar plus storage to meet the county’s electric load. The community’s goals with this project are grid resilience, stabilizing costs for their constituents, and promoting renewable energy development and energy equity. 
+
+ Expert Match Team
+Evan Savage
+Community Lead, Main Expert Match Point of Contact, NREL
+Brian Mirletz
+Solar Modeling Researcher, NREL
+Janine Keith
+Solar Modeling Researcher, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Sonja Macys
+County Commissioner
+Winnie DelliQuadri
+Special Projects / Intergovernmental Services Manager, City of Steamboat Springs
+Eric Friese
+Facilities Manager, City of Steamboat Springs

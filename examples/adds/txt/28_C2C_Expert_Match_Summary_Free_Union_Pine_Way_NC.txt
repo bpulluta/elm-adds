@@ -1,0 +1,31 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Free Union-Piney Woods, North Carolina
+ TA Scope
+From July 2023 through March 2024, the National Renewable Energy Laboratory (NREL) provided technical input for agrivoltaics system design and performed a techno-economic analysis using NREL’s System Advisor Model (SAM™) to compare agrivoltaics configurations with specific inputs from the Free Union-Piney Woods, North Carolina, site (Free Union Farm). Outputs compared costs, farmable areas, and electricity generation.
+ Impact
+Provided valuable insights for agrivoltaics, enabling Free Union-Piney Woods farmers to make informed decisions that enhance sustainable farming practices and foster community development.
+ Background
+Rural Beacon Initiative (RBI), located in Free Union-Piney Woods, North Carolina, is a social enterprise dedicated to promoting business sustainability and environmental justice. They achieve this through consultancy, strategic convening, and deploying models for practical, scalable community-based solutions, with a focus on increasing ownership diversity in regenerative agriculture and renewable energy supply chains. RBI believes rural communities offer opportunities for innovative climate solutions, exemplified by their Free Union Farm project in rural eastern North Carolina. The 52-acre Sustainability Hub at Free Union Farm serves as a pilot demonstration of regenerative agroforestry, conservation finance, sustainable rural development, and resilient community-based solutions to the climate crisis. Black farmers in the area are increasingly interested in sustainable agriculture, exploring agrivoltaics to revolutionize farming practices by combining solar energy generation with agricultural production. 
+
+ Expert Match Team
+Dana-Marie Thomas
+Community Lead, Main Expert Match Point of Contact, NREL
+James McCall
+Agrivoltaics Researcher, NREL
+Jordan Macknick
+Agrivoltaics Researcher, NREL
+Brittany Staie
+Agrivoltaics Researcher, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+William Barber III
+Founder and Chief Executive Officer (CEO)
+
+
+
+
+

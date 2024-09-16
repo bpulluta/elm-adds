@@ -1,0 +1,32 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Pembroke Township, Illinois
+ TA Scope
+From May through August 2023, the National Renewable Energy Laboratory (NREL) provided technical support to the Black Oaks Center (BOC), providing technical input in assessing near-term agrivoltaic opportunities. Activities included:  
+Characterizing priorities and constraints of agrivoltaic systems for BOC. 
+The NREL team met with the BOC team to better understand specific conditions that must be met for the BOC to successfully undertake an agrivoltaics demonstration project.
+Calculating cost, performance, and agricultural tradeoffs of agrivoltaic designs. 
+The NREL team calculated high-level tradeoffs for a subset of agrivoltaic configurations compatible with BOC needs. Variables included economic considerations, farmable areas, yields, energy output, and other factors of interest to BOC.
+ Impact
+The technical assistance and engagement with experts provided valuable insights for agrivoltaics, enabling BOC and Pembroke community farmers to make informed decisions that enhance sustainable farming practices, agricultural resilience, and foster community development and economic stewardship within the community. According to a BOC representative, “This project not only promises food and energy sovereignty by melding sustainable agriculture with clean energy, but it also brings forth economic opportunities, allowing farmers to tap into diverse revenue streams through renewable energy. The adoption of agrivoltaics, ensures a more sustainable approach to land use, conserving water and substantially reducing carbon footprints. Most importantly, this initiative stands as a beacon of hope for the socially disadvantaged farming community, offering them a level playing field, amplifying their voices, and bolstering their capacities.”
+
+Background
+The BOC, situated on a sprawling 40-acre eco-campus in Pembroke Township, Illinois, embodies the essence of sustainable living and community resilience. Relying solely on solar power, with occasional generator support, and sourcing water from an Indigenous well, the center stands as a testament to community-driven sustainable development. Every structure on the land, built with minimized carbon footprints, echoes the profound legacy of the Potawatomi and the pioneering Black farmers from the mid-1800s. The BOC, through its extensive agricultural initiatives, strives to rejuvenate sustainable farming traditions within this historic Black farming community. By fostering educational programs ranging from permaculture to biodiesel and promoting initiatives like the Healthy Food Hub, BOC aims to empower individuals with knowledge and tools essential for creating self-sustaining, resilient communities in today's changing world. The community has several farming families that are interested in (1) potential opportunities at the intersection of farming and renewable energy and (2) broader clean energy opportunities. Despite the excitement, the BOC and community lacked the knowledge and resources to acquire and utilize clean energy technologies, specifically solar, including a lack of economic and financial capacity. As such, BOC sought guidance through the C2C Expert Match program to implement the most effective agrivoltaic practices. 
+ Expert Match Team
+Dana-Marie Thomas
+Community Lead, Main Expert Match Point of Contact, NREL
+Jordan Macknick
+Researcher, Agrivoltaics Expert, NREL
+James McCall
+Researcher, Agrivoltaics Expert, NREL
+Brittany Staie
+Researcher, Agrivoltaics Expert, NREL
+ Community Team
+Fred Carter
+Co-Founder, Executive Director, Black Oaks Center
+Jifunza Carter
+Co-Founder, President, Black Oaks Center
+Joseph Smith
+Co-Director of Renewable Energy Programs, Black Oaks Center

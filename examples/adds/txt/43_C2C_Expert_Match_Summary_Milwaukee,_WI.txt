@@ -1,0 +1,29 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Milwaukee, WI
+ TA Scope
+From March through June 2024, the National Renewable Energy Laboratory (NREL) provided technical support to the City of Milwaukee to inform the city’s efforts to estimate the potential emissions reductions for proposed solar, buildings, and electric vehicle (EV) projects. This assistance leveraged the REopt and ComStock tools, in addition to the U.S. Environmental Protection Agency’s (EPA) Avoided Emissions and Generation Tool (AVERT). 
+
+Deliverables included (1) a short report providing guidance on estimating greenhouse gas (GHG) reductions and (2) high-level runs in REopt and ComStock to help inform ongoing solar and commercial building retrofit efforts. The deliverables provided key guidance as the city applied to the EPA Climate Pollution Reduction Grant (CPRG).
+ Impact
+The representative from Milwaukee stated “I am floored by the quality and quantity of helpful assumptions, data, and analysis with graphics. Having all of this happen in two weeks and with holidays is stunning…Five Star plus performance.”
+
+ Background
+The City of Milwaukee has a population of almost 600,000. It is the most populous city in the state of Wisconsin, and it recently passed a climate and equity plan with goals to reduce GHG emissions 45% by 2020 and achieve net zero emissions by 2050. The equity component of this plan is to improve racial and economic equity by creating green jobs that pay at least $40,000 and focusing on recruiting more local people of color.
+The City’s Environmental Collaboration Office oversees implementation of this plan. However, most of their efforts will be contingent on federal funding. As such, the Environmental Collaboration Office is applying to several federal funding efforts including the EPA CPRG. The EPA CPRG requires estimates of how proposed clean energy projects will reduce GHG emissions.
+ Expert Match Team
+Sika Gadzanku
+Community Lead, Main Expert Match Point of Contact and Program Lead, National Renewable Energy Laboratory (NREL)
+Michael Young
+Greenhouse Gas Accounting Expert, NREL
+Amanda Farthing
+REopt Modeling Engineer, NREL
+Marlena Praprost
+Commercial Buildings Researcher, NREL
+ Community Team
+Erick Shambarger
+Director of Sustainability
+Pamela Ritger de la Rosa
+Environmental Sustainability Program Manager

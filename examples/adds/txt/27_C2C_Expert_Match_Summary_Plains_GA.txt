@@ -1,0 +1,43 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Plains, Georgia
+ TA Scope
+From August 2023 through May 2024, the National Renewable Energy Laboratory (NREL) provided technical assistance (TA) to the Paragon Cooperative in Plains, Georgia. They were also selected as a pilot community for Expert Match Plus and received up to 140 hours of TA compared to the standard 60 hours received by other communities. Assistance provided included: 
+Techno-economic Modeling and Analysis: Estimating (1) the cost of solar photovoltaics (PV) and battery storage and selecting a rate schedule for the Paragon Cooperative’s newly occupied buildings, and (2) how PV and battery costs might increase for a resilient system
+Agrivoltaics Configuration: Analyzing and discussing various agrivoltaics scenarios and metrics, as well as design and configuration tradeoffs for Paragon Cooperative’s farming sites
+Load Profile Modeling: Using Comstock to model potential load at the cooperative’s newly occupied building, which is a 30,000-ft2 former secondary school.
+ Impact
+The analysis provided informed ongoing agrivoltaics deployment efforts and clarified the potential role of solar plus storage in providing resilience benefits and cost savings to its core community buildings. The representative from Paragon stated the following in response to the technical assistance they received: “Outstanding work. Technical assistance helped confirm that this idea is technically feasible, in terms of solar plus storage, paired with agrivoltaics.” 
+
+ Background
+The Paragon Cooperative is a rural, nonprofit farming cooperative with equity goals grounded in sustainability, farming, and housing. 
+ Expert Match Team
+Alexandra Kramer, then Sika Gadzanku
+Community Lead, Main Expert Match Point of Contact, NREL
+Aaron Rose
+REopt Expert, NREL
+James McCall
+Agrivoltaics Researcher, NREL
+Jordan Macknick
+Agrivoltaics Researcher, NREL
+Brittany Staie
+Agrivoltaics Researcher, NREL
+Carlo Bianchi
+Buildings Engineer, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Dionne Henderson
+Board President
+
+
+
+
+
+
+
+
+
+	

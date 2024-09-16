@@ -1,0 +1,29 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Palm Coast, Florida
+ TA Scope
+From May 2023 through March 2024, the National Renewable Energy Laboratory (NREL) provided technical support to Palm Coast, Florida, to help outline a future energy roadmap. (In respect to the extended nature of this request, the initial scoping call was held in May 2023 but the city was severely affected by Hurricane Idalia on August 30, 2023, and then an E2 tornado on October 12, 2023.)  Specifically, the expert team completed the following activities:  
+Onsite energy study for Peavy Grade water treatment facility
+NREL analyzed a cost-optimal onsite energy technologies and dispatch strategies at a critical facility selected by Palm Coast staff. The analysis characterized how onsite systems can reduce the facility’s energy bills and help the city meet energy goals related to climate emissions and resilience. Results were summarized for inclusion in the city’s future energy roadmap and in future applications for grants or loans that can fund implementation of the recommended systems.
+Virtual training workshop for Palm Coast city staff
+NREL facilitated an overview presentation, live demonstration, and hands-on exercise of an energy modeling tool, using data from the Southern Recreation Center as input as applicable. This helped build awareness among Palm Coast staff for the general process involved with site-specific energy modeling to support future data collection and technical assistance efforts at the city, while also providing initial insights about the Southern Recreation Center. 
+
+ Impact
+Provided capacity building best practices and equipped the city with analysis for use in future grant and loan applications, and broader clean energy efforts. 
+ Background
+The City of Palm Coast, Florida, recently hired its first chief sustainability and resiliency officer, who is tasked with creating a sustainability and resiliency plan for the city. Ahead of this effort, the city began developing an energy roadmap to help it set energy goals that are cost-effective, achievable, and impactful for residents. Palm Coast is the 33rd largest city in Florida and is expected to grow with the arrival of new development and employment opportunities. A recent capital improvements ordinance incentivizes Leadership in Energy and Environmental Design Silver certification for new construction, and a public dashboard helps track the progress of capital improvement projects. The city is seeking funding from the Charging and Fuel Infrastructure Discretionary Grant program to support a mobility hub where residents can charge electric vehicles (EVs), bikes, and mobile devices using EV and solar technologies while enjoying nearby recreational activities. Palm Coast has five water treatment facilities where significant energy demand could be met partially with solar and storage technologies. The city has the ability to create robust policies for new developments, help residents switch to renewables, and increase energy efficiency operations as well as the renewable energy portfolio. So, the city sought out short-term technical assistance from the Expert Match program to begin exploring energy opportunities to help outline a future energy roadmap. 
+
+ Expert Match Team
+Dana-Marie Thomas
+Community Lead, Resilient Systems Design Expert, Expert Match Point of Contact, NREL
+Jordan Burns
+Researcher and Project Manager, Resilient Systems Design Expert, NREL
+ Community Team
+Maeven Rogers
+Chief Sustainability & Resiliency Officer, City of Palm Coast
+Eric Gebo
+Architect
+Garann Hopkins
+Public Works

@@ -1,0 +1,41 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Lansing, Michigan
+ TA Scope
+From September 2023 through May 2024, the National Renewable Energy Laboratory (NREL) and Oak Ridge National Laboratory (ORNL) provided technical assistance in three different areas:
+Geothermal system design: ORNL provided analysis on estimated building loads for the new construction Lansing Complex and sizing a ground-source heat pump (GSHP) system to reduce heating and cooling loads compared to a traditional heating, ventilation, and air conditioning system
+Techno-economic analysis: NREL provided REopt techno-economic analysis of solar and storage plus a geothermal heating and cooling system for this building
+Regulatory environment study: NREL provided an analysis of the regulatory environment and permitting needs for geothermal heating and cooling.
+
+ Impact
+The analysis on the potential savings of a GSHP allowed the City of Lansing to justify the greater upfront cost and incorporate the novel system, as well as solar, into the building design. The analysis on available incentives and regulatory requirement also supported their decision to move forward with the project. 
+
+ Background
+Lansing is a city in Michigan with a population of approximately 100,000. The city is interested in exploring renewable energy (RE) potential at several city sites including a new complex that will house the fire, police, and court systems. Initial estimates (based on work with Arizona State University) suggested this new complex has an RE potential of 2.5 megawatts (MW) of rooftop and 2.5 MW of carport solar potential. The city was interested in a comprehensive techno-economic analysis of solar potential as well as an assessment of a solar and geothermal heating and cooling microgrid system for the complex. 
+
+ Expert Match Team
+Evan Savage
+Community Lead, Main Expert Match Point of Contact, NREL
+Xiaobing Liu 
+Senior Research and Development Staff for Geothermal Analysis, ORNL
+Frank Li
+Geothermal Analysis Researcher, ORNL
+Faith Smith
+Geothermal Energy Policy and Regulatory Analyst, NREL
+Aaron Rose
+REopt Researcher, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+
+ Community Team
+Lori Welch
+Sustainability Manager
+Andrew Kilpatrick
+Public Service Director
+Kevin Daehnke
+Center for Strategic Policy Innovation, non-profit support to the City
+
+
+

@@ -1,0 +1,39 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Charlottesville, Virginia (Generation180)
+ TA Scope
+From June to October 2023, the National Renewable Energy Laboratory (NREL) and Pacific Northwest National Laboratory (PNNL) provided technical assistance to Generation180, a non-profit working to change the narrative around clean energy, based in Charlottesville, Virginia. Generation180 sought modeling and analysis support to assess whether the presence of electric vehicles (EV) in select Designated Market Areas (DMAs) creates additional EV growth in those neighborhoods. NREL and PNNL analyzed EV data provided by Generation180 to identify potential trends related to seeding or the crowd effect when it comes to EV adoption. 
+
+ Impact
+Provided technical expertise that will inform Generation180’s consumer education efforts.
+
+
+ Background
+Generation180’s Electrify Your Ride program works to help educate consumers in the United States with a goal to accelerate the transition to electrification and increase the number of EVs on the road. Current EV owners/ambassadors are one of the greatest sources of inspiration for those considering transitioning to electric vehicles. Generation180 works with EV Owners and Ambassadors across the United States with data across eight DMAs and three benchmark cities by ZIP code.
+
+ Expert Match Team
+Sika Gadzanku
+Researcher, C2C Expert Match Program Lead, NREL
+Sophia Garcia-George
+Community Lead, C2C Expert Match, NREL
+Evan Savage
+Project Manager, C2C Expert Match NREL
+Shivam Sharda
+Researcher, Modeling, NREL
+Stanley Young
+Advanced Transportation and Urban Scientist, NREL
+Elisabeth Graffy
+Environmental Justice and Stakeholder Engagement Advisor, PNNL
+
+
+ Community Team
+Nessa Stoltzfus Barge
+Director of Leadership and Engagement, Generation180
+Stuart Gardner
+Program Director, Generation180 
+
+
+
+	

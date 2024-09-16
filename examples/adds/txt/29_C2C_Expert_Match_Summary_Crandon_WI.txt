@@ -1,0 +1,29 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Crandon, Wisconsin
+ TA Scope
+From October 2023 through March 2024, the National Renewable Energy Laboratory (NREL) provided technical input for an Agrivoltaics Scenario Assessment and performed a techno-economic analysis using NREL’s System Advisor Model (SAM™) to compare agrivoltaics configurations with specific inputs from the Forest County Potawatomi Community (FCPC or Tribe) site. Outputs compared costs, farmable areas, and electricity generation. NREL worked with FCPC and Focus on Energy staff and provided input regarding a topic area that will be presented at the Tribal Nation Energy Symposium in June 2024.
+ Impact
+The technical assistance provided valuable insights for agrivoltaics, enabling FCPC farmers to make informed decisions that enhance sustainable farming practices, agricultural resilience, foster community development, and economic stewardship within the community.  Background
+The Forest County Potawatomi Community (FCPC or Tribe), a federally recognized Indian Tribe, has called Forest County, Wisconsin, home since the late 1800s. As the largest employer in Forest County, FCPC aims to achieve carbon neutrality by harnessing 100% renewable energy sources, leading by example in sustainable practices. Confronted with constraints on land resources, the Tribe is interested in integrating agrivoltaics into their agricultural operations, with the goal of maximizing electricity generation and sustainability. The Tribe ought assistance in assessing agrivoltaics technologies and modeling their impact on their farmland, making informed decisions for their application to the U.S. Department of Agriculture’s Powering Affordable Clean Energy (PACE) Program, showcasing their commitment to sustainable energy solutions. 
+
+ Expert Match Team
+Dana-Marie Thomas
+Community Lead, Main Expert Match Point of Contact, NREL
+James McCall
+Agrivoltaics Researcher, NREL
+Jordan Macknick
+Agrivoltaics Researcher, NREL
+Brittany Staie
+Agrivoltaics Researcher, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Jerrald Hauber
+Energy Manager
+Ari A. Zwick
+Energy Sustainability Analyst
+Sara Drescher
+Attorney

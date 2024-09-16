@@ -1,0 +1,28 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Tok, Alaska
+ TA Scope
+From May to October 2023, the National Renewable Energy Laboratory (NREL) supported the Tanana Chiefs Conference (TCC), a consortium of 39 villages and 37 tribes in Alaska. NREL conducted detailed project economic modeling and component sizing for an envisioned retrofit and helped provide a proof of concept for a power purchase agreement (PPA) model, that was originally scoped through a DOE Office of Indian Energy (DOE-IE) technical assistance (TA) effort. 
+NREL worked with TCC to refine the design (component sizing) of one or more of the envisioned retrofits analyzed previously.
+NREL worked with TCC to conduct detailed financial modeling of one or more of the envisioned retrofits.
+Impact
+Since the completion of the previous TA effort, TCC worked on refining a project concept whereby energy produced by a photovoltaic (PV)-battery system will be sold to the Alaska Village Electric Cooperative under a PPA. The Expert Match TA provided a detailed component sizing analysis and financial modeling to better assess the technical and financial feasibility of the proposed PPA concept.  
+
+
+ Background
+Under a DOE-IE funded TA effort, NREL conducted modeling to identify appropriate component size ranges for proposed PV-battery retrofits for three TCC communities. The analysis results included high-level technical and economic performance metrics of the envisioned retrofits. The three communities span a range of sizes, in terms of annual electricity consumption. The results for a given community are broadly applicable to other TCC communities with similar annual consumption. 
+
+ Expert Match Team
+Suzanne McDonald
+Community Lead, Main Expert Match Point of Contact, NREL
+Tony Jimenez
+Senior Researcher, NREL
+ Community Team
+Eddy Dellamary
+Rural Energy Specialist, TCC
+Dave Messier
+Rural Energy Coordinator, TCC 
+Gavin Dixon
+Grant Lead, TCC

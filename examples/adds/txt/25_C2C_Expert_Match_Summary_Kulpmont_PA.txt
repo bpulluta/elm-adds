@@ -1,0 +1,39 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Kulpmont, Pennsylvania
+ TA Scope
+At From October 2023 through February 2024, Argonne National Laboratory (ANL) provided technical assistance to Kulpmont, a borough in Northumberland County, Pennsylvania, in three different areas:
+Solar Modeling: Techno-economic solar analysis for three different sites of a system designed to meet borough and sewer authority loads with and without fuel switching
+Fuel-Switching Modeling: Building modeling to estimate the cost of switching borough buildings and the sewer authority to electrified heating
+Regulatory Review: Analysis of the net energy metering and other utility rules and regulations that impacted siting of the solar facility.
+
+Impact
+This technical assistance equipped Kulpmont with the information needed to decide where to site a solar facility, seek bids, and decide whether to pursue electrified heating of their buildings. Kulpmont has been trying to build a solar site since 2016, and the community representative expressed that after receiving Expert Match technical assistance that they “think development of solar is going to go through at this point.”
+
+ Background
+Kulpmont is a borough in Northumberland County, Pennsylvania, with a population of approximately 3,000. Currently, electricity consumption makes up more than 10% of the borough’s annual budget. To address the high cost of energy, Kulpmont Borough is pursuing solar power and electrified heating to reduce energy costs and convert to clean energy. 
+
+ Expert Match Team
+Evan Savage
+Community Lead, Main Expert Match Point of Contact, NREL
+Zhi Zhou
+Principal Computational Scientist, ANL
+Neal Mann
+Energy Systems Engineer, ANL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Stephen Motyka
+Councilman
+Mardi Klevs
+Environmental Protection Network, Support to Kulpmont Borough
+
+
+
+
+
+
+
+

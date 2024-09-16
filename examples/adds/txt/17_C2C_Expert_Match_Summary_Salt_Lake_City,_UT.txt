@@ -1,0 +1,29 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Salt Lake City, Utah
+ TA Scope
+From July 2023 through March 2024, the National Renewable Energy Laboratory (NREL) provided technical support to Salt Lake City to increase their understanding of NREL tools to support future analysis. NREL provided training for the following tools: State and Local Planning for Energy, Annual Technology Baseline, and Jobs and Economic Development Impact. Building on the introductory tool training, NREL experts supported Salt Lake City staff in using NREL tools to estimate for emission reductions, cost and benefits, and workforce impact in an “office hours” format.
+ Impact
+The technical assistance delivered and engagement with experts were key to building capacity among local government staff on accessing data and tools for use in their sustainability activities. 
+
+ Background
+Salt Lake City is one of 18 Utah communities working with Rocky Mountain Power, Utah’s largest electricity provider, to launch the Community Renewable Energy Program (CREP). The goal of CREP is to match participating customers’ annual electricity use with renewable energy generation delivered to the PacifiCorp/Rocky Mountain Power grid by 2030. To support the launch of CREP, Salt Lake City is seeking to secure financial resources from public and private sources (including from the U.S. Environmental Protection Agency Climate Pollution Reduction Grant Program) to fund a reserve account that allows CREP to acquire utility-scale renewable energy resources. Presenting potential funders with a comprehensive quantification of emissions reductions and other benefits to be realized through CREP’s acquisition of renewable energy resources is critical to building a substantial reserve account. To this end, Salt Lake City’s Department of Sustainability was interested in engaging an NREL expert through the C2C Expert Match program to build staff capacities to accurately use NREL and U.S. Department of Energy public data sources and tools—Green Power Supply Options, State and Local Planning for Energy Platform, Annual Technology Baseline Tool, Jobs and Economic Development Impact Models, and the Low-Income Energy Affordability Data Tool—to quantify emissions reductions and other benefits associated with renewable energy resources the CREP is designed to acquire. 
+
+ Expert Match Team
+Sophia Garcia-George
+Community Lead, Main Expert Match Point of Contact, NREL
+Alexandra Kramer
+Researcher, Secondary Point of Contact, NREL
+Sarah Murillo
+Research Intern, Secondary Point of Contact, NREL
+Laura Supple
+Researcher, SLOPE Tool Expert, NREL
+Jeremy Stefek
+Researcher, JEDI Tool Expert, NREL
+Brian Mirletz
+Researcher, ATB Tool Expert, NREL
+ Community Team
+Christopher Thomas 
+Senior Energy Climate Program Manager, Salt Lake City

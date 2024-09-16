@@ -1,0 +1,29 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Monticello, Florida
+ TA Scope
+From September 2023 through February 2024, the National Renewable Energy Laboratory (NREL) provided technical input for Agrivoltaic (AV) System Design and performed a techno-economic analysis using NREL’s System Advisor Model (SAM™) to compare agrivoltaics configurations with specific inputs from the Monticello, Florida, site (Seed Time Harvest Farms). Outputs compared costs, farmable areas, and electricity generation.
+ Impact
+The community team said, “The impact of this project brought more awareness on how AV can be implemented and engaged in conversations with key stakeholders and others in the area that embrace work toward clean energy strategies. The deliverables will allow for collaborations with statewide stakeholders toward implementing clean energy projects such as AV and community solar.”
+
+
+
+ Background
+Monticello, Florida, located in Jefferson County, is a community renowned for its rich history of Black farmers who have played a pivotal role in shaping the region's agricultural landscape. These farmers, often descendants of families who have cultivated the land for generations, have encountered numerous challenges, including limited access to resources. There is a growing interest in sustainable agriculture, particularly among its Black farmers. Seed Time Harvest Farms, a community-supported agricultural service operating in the area, is at the forefront of this movement. It offers pick-up or delivery services to families in Jefferson, Madison, and Leon counties while also providing education on the benefits of solar and other clean energy methods. Black Indigenous People of Color (BIPOC) farmers in the Monticello community were seeking technical assistance to implement agrivoltaic systems effectively, aiming to drive economic growth and empowerment for BIPOC farmers. 
+
+ Expert Match Team
+Dana-Marie Thomas
+Community Lead, Main Expert Match Point of Contact, NREL
+James McCall
+Agrivoltaics Researcher, NREL
+Jordan Macknick
+Agrivoltaics Researcher, NREL
+Brittany Staie
+Agrivoltaics Researcher, NREL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Cetta Barnhardt
+Owner

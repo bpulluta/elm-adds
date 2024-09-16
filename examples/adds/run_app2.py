@@ -9,19 +9,19 @@ import sys
 from elm import EnergyWizard
 
 
-model = 'gpt-4'
+model = 'ewiz-gpt-4'
 
 # NREL-Azure endpoint. You can also use just the openai endpoint.
 # NOTE: embedding values are different between OpenAI and Azure models!
-openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT")
-openai.api_key = os.getenv("AZURE_OPENAI_KEY")
+openai.api_base = 'https://stratus-embeddings-south-central.openai.azure.com/'
+openai.api_key = '720df3d64998425ab3a454902c77d9b1'
 openai.api_type = 'azure'
-openai.api_version = os.getenv('AZURE_OPENAI_VERSION')
+openai.api_version = '2024-02-15-preview'
 
-EnergyWizard.EMBEDDING_MODEL = 'text-embedding-ada-002-2'
+EnergyWizard.EMBEDDING_MODEL = 'ewiz-gpt-4'
 EnergyWizard.EMBEDDING_URL = ('https://stratus-embeddings-south-central.'
                               'openai.azure.com/openai/deployments/'
-                              'text-embedding-ada-002-2/embeddings?'
+                              'ewiz-gpt-4/embeddings?'
                               f'api-version={openai.api_version}')
 EnergyWizard.URL = ('https://stratus-embeddings-south-central.'
                     'openai.azure.com/openai/deployments/'
@@ -31,10 +31,14 @@ EnergyWizard.HEADERS = {"Content-Type": "application/json",
                         "Authorization": f"Bearer {openai.api_key}",
                         "api-key": f"{openai.api_key}"}
 
-EnergyWizard.MODEL_ROLE = ('You are a energy research assistant. Use the '
-                           'articles below to answer the question. If '
-                           'articles do not provide enough information to '
-                           'answer the question, say "I do not know."')
+EnergyWizard.MODEL_ROLE = ('You are an energy research assistant focused on '
+                           'understanding the user’s knowledge and identifying '
+                           'gaps in their understanding. Your goal is to learn '
+                           'what the user knows and does not know about energy research, '
+                           'and to help them clarify the key question they are trying '
+                           'to answer. Use the provided articles to address the user’s '
+                           'specific inquiries, guiding them to deeper understanding. '
+                           'If the articles do not provide enough information, say "I do not know."')
 EnergyWizard.MODEL_INSTRUCTION = EnergyWizard.MODEL_ROLE
 
 

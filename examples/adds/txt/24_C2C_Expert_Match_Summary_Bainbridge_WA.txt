@@ -1,0 +1,34 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Bainbridge Island, Washington
+ TA Scope
+From October 2023 through April 2024, Pacific Northwest National Laboratory provided technical assistance to the Courtyards on Madison Condominium Association, located in Bainbridge Island, Washington, in two different areas:
+Solar Modeling: Since each residence is individually metered, utility rules and technical feasibility indicated that a rooftop solar potential analysis for each individual building would be the best approach. The System Advisor Model™ was used to analyze solar technical potential and evaluate payback period with and without incentives
+Resilience Analysis: For select residences that provided detailed load data, the REopt® model was used to size an optimal home battery to meet critical load during an outage
+ Impact
+This technical assistance request equipped the Courtyards on Madison Condominium Association with key information needed to help residence pursue solar, either through customer-owned solar, third-party owned solar, or other options like community solar and utility clean energy programs.  Background
+Bainbridge Island is a city with a population of approximately 25,000. The Courtyards on Madison Condominium Association, located in Bainbridge Island, houses 30 owners/tenants who generally have long tenures and are predominantly retirees on a fixed income. The association also houses some families with young children and a few renters. Energy costs on Bainbridge Island are high, and the island’s electric grid is vulnerable to power outages during storms. The City of Bainbridge Island has committed to shifting businesses and residents to renewable energy within 10‒15 years; the Courtyards on Madison Condominium Association was interested in installing rooftop solar to participate in the city’s renewable energy goals, and to decrease costs and improve resilience for its residents.
+ Expert Match Team
+Evan Savage
+Community Lead, Main Expert Match Point of Contact, NREL
+Malcolm Moncheur de Rieudotte
+Energy Systems Engineer, PNNL
+Katie Arkema
+Senior Earth Scientist, PNNL
+Deborah Rose
+Earth Scientist, PNNL
+Sika Gadzanku
+C2C Expert Match Program Manager, NREL
+ Community Team
+Sanjay Bhatt
+President
+
+
+
+
+
+
+
+	

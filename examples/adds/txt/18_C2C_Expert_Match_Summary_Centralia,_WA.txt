@@ -1,0 +1,31 @@
+U.S. Department of Energy (DOE)
+Clean Energy to Communities (C2C) Program
+Summary of Technical Assistance (TA) Support
+
+Centralia, Washington 
+ TA Scope
+From June through December 2023, the National Renewable Energy Laboratory (NREL) provided technical input on how to design an agrivoltaics system on the Centralia, Washington, site. Activities included engaging agrivoltaic system experts to provide feedback and assistance on an agrivoltaic system design to include relevant livestock and cover crops. Assistance also included providing a high-level technoeconomic analysis using NREL’s System Advisor Model that compares multiple agrivoltaics configurations specific to inputs from Centralia.
+ Impact
+Provided valuable insights for agrivoltaics, enabling Centralia farmers to make informed decisions that enhance sustainable farming practices and foster community development. Created a replicable model for agrivoltaic systems that enhances food security, energy independence, and economic resilience, fostering a future where sustainable practices are the cornerstone of community development and prosperity.
+
+ Background
+Centralia, Washington, is a community with a rich history strategically positioned between Seattle, Washington, and Portland, Oregon. Centralia boasts infrastructure capable of integrating energy into the grid, making it an attractive location for companies interested in renewable energy. TransAlta, based in Calgary, Alberta, is among the clean energy contenders looking to transform Centralia from an area historically focused on coal-energy generation into a hub for innovative energy technologies. Within this context, there is a growing interest in sustainable agriculture, particularly among Centralia’s Black farmers. These farmers are exploring agrivoltaics, combining solar energy generation with agricultural production, to revolutionize their farming practices. The community sought technical assistance to implement agrivoltaic systems effectively, aiming to drive economic growth and empowerment for Black, Indigenous, and People of Color (BIPOC) farmers. This initiative not only honored Centralia's historical roots, but also paved the way for a future of innovative and inclusive agricultural practices. In addition to exploring agrivoltaics, the Centralia community sought guidance on Community Solar Developments, such as assistance in system sizing, design, battery storage, and financing options. This initiative reflected Centralia’s commitment to sustainable energy solutions and their desire to create a more resilient and economically vibrant future for BIPOC farmers and the broader community. 
+
+ Expert Match Team
+Dana-Marie Thomas
+Community Lead, Main Expert Match Point of Contact, NREL
+Jordan Macknick
+Researcher, Agrivoltaics Expert, NREL
+James McCall
+Researcher, Agrivoltaics Expert, NREL
+Brittany Staie
+Researcher, Agrivoltaics Expert, NREL
+Alexandra Kramer
+Researcher, Solar Expert, NREL
+ Community Team
+Derrick Chapman
+Community Power Collaborative, Inc.
+Eddie Hill
+Community Power Collaborative, Inc
+Adam Powers
+Community Power Collaborative, Inc.
